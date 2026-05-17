@@ -1,5 +1,16 @@
 [
 	{
+  "name": "Rocket Artillery",
+  "unitType": "Siege",
+  "movement": 2,
+  "strength": 45,
+  "rangedStrength": 60,
+  "range": 3,
+  "cost": 425,
+  "requiredTech": "Atomic Theory",
+  "requiredResource": "Aluminum"
+},
+	{
 		"name": "Tiger I",
 		"unitType": "Armored",
 		"uniqueTo": "German Reich",
